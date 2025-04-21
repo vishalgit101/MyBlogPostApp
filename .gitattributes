@@ -1,6 +1,9 @@
+# Ignore general frontend
+
 
 
 # Specifically ignore minified or vendor stuff
 bootstrap/** linguist-vendored
 vendor/** linguist-vendored
 
+public/** linguist-vendored
